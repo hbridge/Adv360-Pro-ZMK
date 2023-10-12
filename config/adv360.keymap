@@ -72,7 +72,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none                                                   &none     &trans        &kp LEFT_BRACE        &kp RIGHT_BRACE  &kp UNDERSCORE    &trans     &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS       &kp MINUS  &kp PLUS  &kp GRAVE
  &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                   &kp EXCL      &kp LEFT_BRACKET      &kp RIGHT_BRACKET          &trans    &trans     &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                           &trans                 &trans          &trans    &trans     &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                        &kp PG_UP              &kp PG_DN          &trans    &trans     &trans
             >;
         };
 
